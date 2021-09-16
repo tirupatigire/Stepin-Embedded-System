@@ -19,3 +19,5 @@ his equipment should work efficiently in that whether. In our project,
 | `4 Test_plan`     
 | `5 Simulations`   
 | `6 ImagesAndVideos`
+
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/824dca5a951541bb96b91a5b687a54e5)](https://www.codacy.com/gh/tirupatigire/Stepin-Embedded-System/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=tirupatigire/Stepin-Embedded-System&amp;utm_campaign=Badge_Grade)
